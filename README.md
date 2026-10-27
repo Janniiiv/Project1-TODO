@@ -106,7 +106,8 @@ I still need to practice and get more familiar with JS and DOM basics. so I can 
 
 Sources:
 -Tutorial: https://webdesign.tutsplus.com/to-do-app-with-vanilla-javascript--cms-35258t?utm_campaign=yt_tutsplus_y71CdVq5SvI&utm_content=description&utm_medium=referral&utm_source=youtube.com
--Lecture: 
+-Lecture: https://video.laurea.fi/media/Web+Development+1+%E2%80%93+Project+1%2C+Form+Validation+and+Project+Planning/0_eamak7nw
+-Lecture: https://video.laurea.fi/media/Lecture+05+%E2%80%93+localStorage%2C+GitHub+Pages++Project+1/0_76gn5lxy
 
 
 AI use:
