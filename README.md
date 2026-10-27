@@ -23,7 +23,8 @@ For staying organized and tracking tasks, for example: cleaning, productivity, h
 
 -move completed tasks to a different section/hide them 
 
--error message  
+
+
 
 ### Wireframe / sketch
 
@@ -94,7 +95,7 @@ I should have started the project earlier.
   
 - What would I improve if I had more time?
 - What did I learn about HTML, CSS, JavaScript and DOM scripting?
-Making the HTML and CSS was a good review because I had them in another course in the first year of studies. 
+Making the HTML and CSS was a good review because I had them in another course in the first year of studies. I used a pre-written CSS file which was in the tutorial for the layout. 
   
 - What remained unclear or what would I like to learn more about?
 I still need to practice and get more familiar with JS and DOM basics. so I can build on the skills and be able to use it myself without following a tutorial.
