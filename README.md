@@ -80,36 +80,36 @@ Describe any known bugs, missing features or other limitations.
 
 If there are no known issues, write: **No known issues.**
 
-## Division of work
 
-*Complete this section only if you worked in a pair.*
-
-Describe how the work was divided and how the collaboration went.
-
-- Author 1: ...
-- Author 2: ...
 
 ## Self-assessment and learning reflection
 
 Reflect on your work and learning process.
 
 - What did I succeed in?
+
+  
 - What was challenging?
+I should have started the project earlier. 
+  
 - What would I improve if I had more time?
 - What did I learn about HTML, CSS, JavaScript and DOM scripting?
+Making the HTML and CSS was a good review because I had them in another course in the first year of studies. 
+  
 - What remained unclear or what would I like to learn more about?
+I still need to practice and get more familiar with JS and DOM basics. so I can build on the skills and be able to use it myself without following a tutorial.
+  
 - My self-assessed project grade: **xx/10 points**
 
 ## Sources and acknowledgements
 
-List all sources, tutorials, images and code examples used in your project.
+Sources:
+-Tutorial: https://webdesign.tutsplus.com/to-do-app-with-vanilla-javascript--cms-35258t?utm_campaign=yt_tutsplus_y71CdVq5SvI&utm_content=description&utm_medium=referral&utm_source=youtube.com
+-Lecture: 
 
-If you used ChatGPT, GitHub Copilot or another AI tool, mention it here and briefly explain how it supported your work.
 
-- [Source or tutorial name](https://example.com/)
-- [Image source](https://example.com/)
-- AI tool used: ...
-  - How the tool was used: ...
+AI use:
+-I had AI code completion on on VS code and sometimes used the suggestions to fill the code in faster if it was correct.
 
 ## License
 
