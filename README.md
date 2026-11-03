@@ -15,13 +15,11 @@ For staying organized and tracking tasks, for example: cleaning, productivity, a
 
 -list with checkboxes 
 
--ability to create tasks for the list and edit their timeframe 
+-ability to create tasks for the list 
 
 -ability to mark tasks done/uncheck 
 
--history of completed tasks 
-
--move completed tasks to a different section/hide them 
+-tasks disappear as complete (can be recovered)
 
 
 
@@ -110,6 +108,7 @@ Sources:
 
 -Lecture: https://video.laurea.fi/media/Web+Development+1+%E2%80%93+Project+1%2C+Form+Validation+and+Project+Planning/0_eamak7nw
 -Lecture: https://video.laurea.fi/media/Lecture+05+%E2%80%93+localStorage%2C+GitHub+Pages++Project+1/0_76gn5lxy
+-Tutorial: https://www.youtube.com/watch?v=G0jO8kUrg-I
 
 
 AI use:
