@@ -8,7 +8,7 @@ Janni Virta
 
 Habit tracker 
 
-For staying organized and tracking tasks, for example: cleaning, productivity, healthy habits. 
+For staying organized and tracking tasks, for example: cleaning, productivity, and healthy habits. 
 
 
 ### Planned features
@@ -39,7 +39,7 @@ For staying organized and tracking tasks, for example: cleaning, productivity, h
 
 ## About the application
 
-**[Project name]** is a web application that ...
+Habit-tracker.
 
 Briefly describe the purpose of your application and its main features.
 
@@ -88,19 +88,21 @@ If there are no known issues, write: **No known issues.**
 Reflect on your work and learning process.
 
 - What did I succeed in?
-
+I used what was taught in the tutorial and lectures in a way that I was able to make the app my own and not just copy what was shown. The idea itself is useful, I have used a similar app myself for years. 
   
 - What was challenging?
-I should have started the project earlier. 
+I should have started the project earlier and managed my time better on this project because I returned it past the deadline.
   
 - What would I improve if I had more time?
+I would learn how to add some "bonus" elements.
+  
 - What did I learn about HTML, CSS, JavaScript and DOM scripting?
 Making the HTML and CSS was a good review because I had them in another course in the first year of studies. I used a pre-written CSS file which was in the tutorial for the layout. 
   
 - What remained unclear or what would I like to learn more about?
-I still need to practice and get more familiar with JS and DOM basics. so I can build on the skills and be able to use it myself without following a tutorial.
+I still need to practice and get more familiar with JS and DOM basics. so I can build on the skills and be able to use it myself without following a tutorial. 
   
-- My self-assessed project grade: **xx/10 points**
+- My self-assessed project grade: **5/10 points**
 
 ## Sources and acknowledgements
 
@@ -111,7 +113,8 @@ Sources:
 
 
 AI use:
--I had AI code completion on on VS code and sometimes used the suggestions to fill the code in faster if it was correct.
+-I had AI code completion on VS code, but I checked and edited them.
+
 
 ## License
 
