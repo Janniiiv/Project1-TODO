@@ -113,7 +113,7 @@ Sources:
 
 AI use:
 -I had AI code completion on VS code, but I checked and edited them.
-
+-Asked AI for different font names to fit my page 
 
 ## License
 
