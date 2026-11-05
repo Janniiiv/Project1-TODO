@@ -114,6 +114,7 @@ Sources:
 AI use:
 -I had AI code completion on VS code, but I checked and edited them.
 -Asked AI for different font names to fit my page 
+-I had an issue with the first js that I added (alert when not typing anything) not appearing so I took a picture and asked AI what the issue is, and there were some small issues with indentation, typos and script src being in the wrong place, I got it to work after that.
 
 ## License
 
