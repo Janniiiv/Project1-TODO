@@ -19,7 +19,7 @@ For staying organized and tracking tasks, for example: cleaning, productivity, a
 
 -ability to mark tasks done/uncheck 
 
--tasks disappear as complete (can be recovered)
+-tasks disappear as complete
 
 
 
@@ -38,8 +38,7 @@ For staying organized and tracking tasks, for example: cleaning, productivity, a
 ## About the application
 
 Habit-tracker.
-
-Briefly describe the purpose of your application and its main features.
+You can add tasks you want to complete to the list, and check them once they are complete. You can also delete tasks from the list compeltely, but the tasks checked "done" remain visible, the checkbox just changes colour.
 
 ## Technologies
 
@@ -55,9 +54,9 @@ Describe the technologies you used and their role in your project.
 Write short instructions for using the application.
 
 1. Open the published application using the link above.
-2. Fill in the form fields.
-3. Add, edit, remove or mark items as completed.
-4. Refresh the page and check whether data remains available in the browser, if you used localStorage.
+2. Type in a task you want to do and click add.
+3. Click the round checkbox when you have completed the task, or remove the task completely using the small x button. 
+4. Refresh the page and check whether data remains available in the browser.
 
 ## Running the application locally
 
@@ -67,7 +66,8 @@ Write short instructions for using the application.
 
 ## Screenshots
 
-Add at least one screenshot of your working application.
+<img width="1833" height="406" alt="image" src="https://github.com/user-attachments/assets/53c54518-53e7-4cb1-b846-6fa553f531b7" />
+
 
 Example:
 
