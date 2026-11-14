@@ -75,10 +75,8 @@ Example:
 
 ## Known issues / limitations
 
-Describe any known bugs, missing features or other limitations.
 
-If there are no known issues, write: **No known issues.**
-
+Does not have an ability to recover tasks that have been deleted, or a timeline for when/how often a task should be done. 
 
 
 ## Self-assessment and learning reflection
@@ -86,17 +84,17 @@ If there are no known issues, write: **No known issues.**
 Reflect on your work and learning process.
 
 - What did I succeed in?
-I used what was taught in the tutorial and lectures in a way that I was able to make the app my own and not just copy what was shown. The idea itself is useful, I have used a similar app myself for years. 
+I used what was taught in the tutorial and lectures in a way that I was able to make the app my own and not just copy what was shown. The idea itself is useful, I have used a similar app myself for years. I think it was also pretty similar to the wireframe.
   
 - What was challenging?
-I should have started the project earlier and managed my time better on this project because I returned it past the deadline.
+I should have started the project earlier and managed my time better on this project because I returned it past the deadline, and I only added very basic features and styling. 
   
 - What would I improve if I had more time?
-I would learn how to add some "bonus" elements.
+I would learn how to add some "bonus" elements, add nicer styling, add more useful functions. 
   
 - What did I learn about HTML, CSS, JavaScript and DOM scripting?
-Making the HTML and CSS was a good review because I had them in another course in the first year of studies. I used a pre-written CSS file which was in the tutorial for the layout. 
-  
+Making the HTML and CSS was a good review because I had them in another course in the first year of studies. For JS I learned how to make a list interactive like this, and what localstorage is. 
+
 - What remained unclear or what would I like to learn more about?
 I still need to practice and get more familiar with JS and DOM basics. so I can build on the skills and be able to use it myself without following a tutorial. 
   
