@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Neutral Sans', sans-serif;
+    box-sizing: border-box;
+    text-align: center;
+}   
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+    background-color: grey;
+    align-items: center;
+}   
+
+.todo-app {
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}   
+
+ul li {
+    list-style: none;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ul li::before {
+    content: '';
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+    border-radius: 50%;
+    background-color: #ccc;
+}
+
+ul li.checked::before {
+    background-color: #84dad7;
+    text-decoration: line-through;
+}
+
+ul li span {
+    cursor: pointer;
+    color: #888;
+    font-size: 20px;
+}
