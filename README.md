@@ -31,7 +31,7 @@ For staying organized and tracking tasks, for example: cleaning, productivity, a
 
 ## Web links
 
-- **Published application:** [Add your GitHub Pages URL here](https://yourusername.github.io/your-repository/)
+- **Published application:** https://janniiiv.github.io/Project1-TODO/
 - **GitHub repository:** https://github.com/Janniiiv/Project1-TODO.git
 - **Project video presentation:** [Add your video URL here](https://example.com/)
 
