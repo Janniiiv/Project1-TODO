@@ -33,7 +33,7 @@ For staying organized and tracking tasks, for example: cleaning, productivity, a
 
 - **Published application:** https://janniiiv.github.io/Project1-TODO/
 - **GitHub repository:** https://github.com/Janniiiv/Project1-TODO.git
-- **Project video presentation:** [Add your video URL here](https://example.com/)
+- **Project video presentation:** https://video.laurea.fi/media/JVproject1video/0_jaw3eu76
 
 ## About the application
 
